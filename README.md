@@ -44,7 +44,7 @@ Key configurations and outcomes are documented with screenshots in the `/screens
 
 ##  References
 
-Links to all official Microsoft Learn documentation are available in the final section of the [project report](./Azure-MFA-SSPR-Report.md).
+Links to all official Microsoft Learn documentation are available in the final section of the [project report]
 
 ##  Author
 
