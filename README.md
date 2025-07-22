@@ -2,7 +2,7 @@
 
 This repository contains a detailed report and practical implementation steps for configuring and managing **Azure Multifactor Authentication (MFA)** and **Self-Service Password Reset (SSPR)** using a Microsoft Azure Student subscription.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project explores secure identity management using Microsoft Azure. It focuses on:
 
@@ -13,15 +13,15 @@ This project explores secure identity management using Microsoft Azure. It focus
 - Simulating OAuth token generation using App Registration
 - Documenting theoretical setup of NPS Extension for on-premise MFA
 
-## 📂 Contents
+##  Contents
 
-- ✅ Full Project Report (PDF or Markdown)
-- 📸 Screenshots of Azure configurations
-- 🖼️ Architecture Diagram
-- 🔐 OAuth Token Flow 
-- 📄 References to official Microsoft documentation
+-  Full Project Report (PDF or Markdown)
+-  Screenshots of Azure configurations
+-  Architecture Diagram
+-  OAuth Token Flow 
+-  References to official Microsoft documentation
 
-## 🧰 Tools and Services Used
+##  Tools and Services Used
 
 - Microsoft Azure Active Directory (AAD)
 - Azure MFA (per-user)
@@ -30,7 +30,7 @@ This project explores secure identity management using Microsoft Azure. It focus
 - Postman (OAuth Token Testing)
 - NPS Extension (theoretical documentation)
 
-## 📊 Features Demonstrated
+##  Features Demonstrated
 
 - MFA & SSPR setup and registration
 - Smart lockout policies
@@ -38,18 +38,18 @@ This project explores secure identity management using Microsoft Azure. It focus
 - App Registration and token flow
 - Theoretical on-prem integration (NPS)
 
-## 📷 Screenshots
+##  Screenshots
 
 Key configurations and outcomes are documented with screenshots in the `/screenshots` folder.
 
-## 📚 References
+##  References
 
 Links to all official Microsoft Learn documentation are available in the final section of the [project report](./Azure-MFA-SSPR-Report.md).
 
-## 👨‍💻 Author
+##  Author
 
 **Ankit Kumar**  
-GitHub: [@your-github](https://github.com/your-github)  
+GitHub: https://github.com/AnkitPathak0987/Celebal_Project 
 
 ---
 
