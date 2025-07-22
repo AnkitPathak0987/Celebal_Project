@@ -1,6 +1,6 @@
 # Azure MFA and SSPR Configuration Project
 
-This repository contains a detailed report and practical implementation steps for configuring and managing **Azure Multifactor Authentication (MFA)** and **Self-Service Password Reset (SSPR)** using a Microsoft Azure Student subscription.
+This repository contains a detailed report and practical implementation steps for configuring and managing **Azure Multifactor Authentication (MFA)** and **Self-Service Password Reset (SSPR)** using a Microsoft Azure subscription.
 
 ##  Project Overview
 
