@@ -12,9 +12,6 @@ This project explores secure identity management using Microsoft Azure. It focus
 - Monitoring sign-ins and authentication logs
 - Simulating OAuth token generation using App Registration
 - Documenting theoretical setup of NPS Extension for on-premise MFA
-##  ## Architecture Diagram
-
-![Azure MFA and SSPR Architecture](https://github.com/AnkitPathak0987/Celebal_Project/blob/main/Architecture%20Diagram%20project.png)
 
 ##  Contents
 
@@ -33,13 +30,16 @@ This project explores secure identity management using Microsoft Azure. It focus
 - Postman (OAuth Token Testing)
 - NPS Extension (theoretical documentation)
 
-##  Features Demonstrated
+##   Demonstrated
 
 - MFA & SSPR setup and registration
 - Smart lockout policies
 - Sign-in monitoring and reporting
 - App Registration and token flow
 - Theoretical on-prem integration (NPS)
+## Architecture Diagram
+
+![Azure MFA and SSPR Architecture](https://github.com/AnkitPathak0987/Celebal_Project/blob/main/Architecture%20Diagram%20project.png)
 
 ##  Screenshots
 
